@@ -10,4 +10,4 @@ Pulmonary arterial hypertension (PAH) is a severe complication and leading cause
 ### Output:
 [{'Pulmonary': 'B-Entity'}, {'arterial': 'I-Entity'}, {'hypertension': 'I-Entity'}, {'(PAH)': 'O'}, {'is': 'O'}, {'a': 'O'}, {'severe': 'O'}, {'complication': 'O'}, {'and': 'O'}, {'leading': 'O'}, {'cause': 'O'}, {'of': 'O'}, {'mortality': 'O'}, {'in': 'O'}, {'patients': 'O'}, {'with': 'O'}, {'primary': 'B-Entity'}, {"Sjogren's": 'I-Entity'}, {'syndrome': 'I-Entity'}, {'(pSS).': 'O'}]
 ## Conclusion:
-From our observation, the model is performing pretty well. It able to recognize most of the entities that are related to diseses.
+From our observation, the model is performing pretty well. It able to recognize most of the entities that are related to diseses. To run the model on our, we divided data 6 datasets and ran the model on the datasets.
